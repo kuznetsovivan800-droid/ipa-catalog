@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "name": "Семейный Онлайн",
+    "version": "16.13.0",
+    "size": "270 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_9aa02273a70c0.webp",
+    "download": "https://cdn.appbank.pw/ipa/230626/familyonline.ipa"
+  },
+  {
+    "name": "Финансы Онлайн",
+    "version": "17.0.0",
+    "size": "273 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_713d0fc45e17d.webp",
+    "download": "https://cdn.appbank.pw/ipa/r/sber/finance-online.ipa"
+  },
+  {
+    "name": "Актив",
+    "version": "3.34.0",
+    "size": "95 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_6a41fc65c060c.webp",
+    "download": "https://cdn.appbank.pw/ipa/130726/activ.ipa"
+  },
+  {
+    "name": "Smart Quiz",
+    "version": "5.10.1",
+    "size": "94 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_3b24ed7e224dd.webp",
+    "download": "https://cdn.appbank.pw/ipa/100526/smartquiz.ipa"
+  },
+  {
+    "name": "Т-Банк",
+    "version": "7.37.1",
+    "size": "212 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_300b8251060dd.webp",
+    "download": "https://cdn.appbank.pw/ipa/230626/toastmas.ipa"
+  }
+]
