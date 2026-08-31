@@ -49,7 +49,7 @@
     const render = () => { const q = search.value.trim().toLowerCase(), c = category.value; const filtered = apps.filter(a => (!q || `${a.name} ${a.category}`.toLowerCase().includes(q)) && (!c || a.category === c));
       root.innerHTML = filtered.length ? filtered.map(app => `<article class="card">
         ${app.icon ? `<img class="icon" src="${esc(app.icon)}" alt="">` : '<div class="icon"></div>'}
-        <div class="info"><div class="name">${esc(app.name)}</div><div class="mask">В каталоге: ${esc(app.maskName || 'оригинальное название не указано')}</div><div class="tag">${esc(app.category || 'Другое')}</div><div class="meta">Версия ${esc(app.version || '—')}${app.size ? ` · ${esc(app.size)}` : ''}</div></div>
+        <div class="info"><div class="name">${esc(app.name)}</div><div class="mask">На iPhone будет отображаться как: «${esc(app.maskName || 'название не указано')}»</div><div class="tag">${esc(app.category || 'Другое')}</div><div class="meta">Версия ${esc(app.version || '—')}${app.size ? ` · ${esc(app.size)}` : ''}</div></div>
         <a class="button" href="${esc(app.download)}" rel="noopener">Скачать IPA</a>
       </article>`).join('') : '<div class="empty">Ничего не найдено.</div>'; };
     search.addEventListener('input', render); category.addEventListener('change', render); render();
