@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Приложения для iPhone</title>
+  <meta name="description" content="Каталог IPA-файлов и инструкция по установке на iPhone.">
+  <style>
+    :root { color-scheme: dark; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; }
+    body { margin: 0; background: #101114; color: #f5f6f7; }
+    main { max-width: 760px; margin: auto; padding: 28px 16px 56px; }
+    h1 { margin: 0 0 8px; font-size: 30px; }
+    .lead, .note { color: #aeb2bb; line-height: 1.5; }
+    .note { background: #1b1d22; border: 1px solid #30343d; border-radius: 14px; padding: 14px 16px; margin: 20px 0; }
+    .card { display: flex; gap: 14px; align-items: center; background: #1b1d22; border: 1px solid #30343d; border-radius: 16px; padding: 14px; margin: 12px 0; }
+    .icon { width: 54px; height: 54px; border-radius: 13px; background: #30343d; object-fit: cover; flex: 0 0 auto; }
+    .info { min-width: 0; flex: 1; }
+    .name { font-weight: 700; font-size: 17px; }
+    .meta { color: #aeb2bb; font-size: 14px; margin-top: 4px; }
+    a.button { display: inline-block; background: #3478f6; color: white; text-decoration: none; padding: 10px 14px; border-radius: 10px; font-weight: 650; white-space: nowrap; }
+    .empty { padding: 28px 0; color: #aeb2bb; }
+    ol { padding-left: 23px; color: #d8dae0; line-height: 1.6; }
+    @media (max-width: 520px) { .card { align-items: flex-start; } a.button { margin-left: 0; } .card { flex-wrap: wrap; } }
+  </style>
+</head>
+<body>
+<main>
+  <h1>Приложения для iPhone</h1>
+  <p class="lead">Скачайте IPA-файл и установите его через Feather или ESign с вашим сертификатом.</p>
+  <div class="note"><strong>Важно.</strong> IPA не устанавливается сам по себе. Перед скачиванием установите приложение-подписант и добавьте свой сертификат. Используйте только файлы, на распространение которых у нас есть разрешение.</div>
+  <section id="apps" aria-live="polite"><div class="empty">Загрузка каталога…</div></section>
+  <div class="note">
+    <strong>Как установить</strong>
+    <ol><li>Установите Feather или ESign и добавьте сертификат.</li><li>Нажмите «Скачать IPA».</li><li>Откройте скачанный файл через подписант и нажмите установку.</li><li>Если iOS попросит доверие профилю, подтвердите его в настройках.</li></ol>
+  </div>
+</main>
+<script>
+  const esc = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  fetch('apps.json', {cache: 'no-store'}).then(r => r.json()).then(apps => {
+    const root = document.querySelector('#apps');
+    if (!Array.isArray(apps) || !apps.length) { root.innerHTML = '<div class="empty">Приложения пока не добавлены.</div>'; return; }
+    root.innerHTML = apps.map(app => `<article class="card">
+      ${app.icon ? `<img class="icon" src="${esc(app.icon)}" alt="">` : '<div class="icon"></div>'}
+      <div class="info"><div class="name">${esc(app.name)}</div><div class="meta">Версия ${esc(app.version || '—')}${app.size ? ` · ${esc(app.size)}` : ''}</div></div>
+      <a class="button" href="${esc(app.download)}" rel="noopener">Скачать IPA</a>
+    </article>`).join('');
+  }).catch(() => { document.querySelector('#apps').innerHTML = '<div class="empty">Не удалось загрузить каталог. Попробуйте обновить страницу.</div>'; });
+</script>
+</body>
+</html>
