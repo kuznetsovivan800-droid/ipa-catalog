@@ -18,7 +18,8 @@
     .card { display: flex; gap: 14px; align-items: center; background: #1b1d22; border: 1px solid #30343d; border-radius: 16px; padding: 14px; margin: 12px 0; }
     .icon { width: 54px; height: 54px; border-radius: 13px; background: #30343d; object-fit: cover; flex: 0 0 auto; }
     .info { min-width: 0; flex: 1; }
-    .name { font-weight: 700; font-size: 17px; }
+    .name { font-weight: 750; font-size: 19px; }
+    .mask { color: #858b98; font-size: 13px; margin-top: 3px; }
     .meta { color: #aeb2bb; font-size: 14px; margin-top: 4px; }
     .tag { display: inline-block; color: #9fc0ff; font-size: 12px; margin-top: 5px; }
     a.button { display: inline-block; background: #3478f6; color: white; text-decoration: none; padding: 10px 14px; border-radius: 10px; font-weight: 650; white-space: nowrap; }
@@ -48,7 +49,7 @@
     const render = () => { const q = search.value.trim().toLowerCase(), c = category.value; const filtered = apps.filter(a => (!q || `${a.name} ${a.category}`.toLowerCase().includes(q)) && (!c || a.category === c));
       root.innerHTML = filtered.length ? filtered.map(app => `<article class="card">
         ${app.icon ? `<img class="icon" src="${esc(app.icon)}" alt="">` : '<div class="icon"></div>'}
-        <div class="info"><div class="name">${esc(app.name)}</div><div class="tag">${esc(app.category || 'Другое')}</div><div class="meta">Версия ${esc(app.version || '—')}${app.size ? ` · ${esc(app.size)}` : ''}</div></div>
+        <div class="info"><div class="name">${esc(app.name)}</div><div class="mask">В каталоге: ${esc(app.maskName || 'оригинальное название не указано')}</div><div class="tag">${esc(app.category || 'Другое')}</div><div class="meta">Версия ${esc(app.version || '—')}${app.size ? ` · ${esc(app.size)}` : ''}</div></div>
         <a class="button" href="${esc(app.download)}" rel="noopener">Скачать IPA</a>
       </article>`).join('') : '<div class="empty">Ничего не найдено.</div>'; };
     search.addEventListener('input', render); category.addEventListener('change', render); render();

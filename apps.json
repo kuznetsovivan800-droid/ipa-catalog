@@ -1,538 +1,575 @@
 [
   {
-    "name": "Семейный Онлайн",
-    "category": "Сбербанк",
-    "version": "16.13.0",
-    "size": "271 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_9aa02273a70c0.webp",
-    "download": "https://cdn.appbank.pw/ipa/230626/familyonline.ipa"
-  },
-  {
-    "name": "Финансы Онлайн",
-    "category": "Сбербанк",
-    "version": "17.0.0",
-    "size": "273 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_713d0fc45e17d.webp",
-    "download": "https://cdn.appbank.pw/ipa/r/sber/finance-online.ipa"
-  },
-  {
-    "name": "Актив",
-    "category": "Сбер Инвестиции",
-    "version": "3.34.0",
-    "size": "94 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_6a41fc65c060c.webp",
-    "download": "https://cdn.appbank.pw/ipa/130726/activ.ipa"
-  },
-  {
-    "name": "Состояние",
-    "category": "Сбер Инвестиции",
-    "version": "3.34.0",
-    "size": "110 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_9d04e7fccf630.webp",
-    "download": "https://cdn.appbank.pw/ipa/100526/sostoyanie.ipa"
-  },
-  {
-    "name": "AI dente",
-    "category": "Сбер Бизнес",
-    "version": "4.00.0",
-    "size": "159 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_b19155fdc9ca7.webp",
-    "download": "https://cdn.appbank.pw/ipa/260626/aidente.ipa"
-  },
-  {
-    "name": "BookTracker: Reading Room",
-    "category": "СберKids",
-    "version": "5.12.0",
-    "size": "63 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_027ffcd549fb7.webp",
-    "download": "https://cdn.appbank.pw/ipa/130726/booktracker.ipa"
-  },
-  {
-    "name": "Smart Quiz",
-    "category": "СберKids",
-    "version": "5.10.1",
-    "size": "94 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_3b24ed7e224dd.webp",
-    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/smartquiz.ipa"
-  },
-  {
-    "name": "Апгрейд",
-    "category": "Альфа-Банк",
-    "version": "16.4.0",
-    "size": "122 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_d2adc8cd4002f.webp",
-    "download": "https://cdn.appbank.pw/ipa/180626/upgrade.ipa"
-  },
-  {
-    "name": "Холдер",
-    "category": "Альфа-Банк",
-    "version": "16.02.0",
-    "size": "134 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_a43fcd93adc8f.webp",
-    "download": "https://cdn.appbank.pw/ipa/180626/holder.ipa"
-  },
-  {
-    "name": "ToRefresh",
+    "name": "Альфа Инвестиции",
+    "maskName": "ToRefresh",
     "category": "Альфа Инвестиции",
     "version": "1.3",
+    "versionDate": "2026-05-10",
     "size": "156 МБ",
     "icon": "https://cdn.appbank.pw/fake/icon_0d97b8fd37f46.webp",
-    "download": "https://cdn.appbank.pw/ipa/100526/torefresh.ipa"
+    "download": "https://cdn.appbank.pw/ipa/100526/torefresh.ipa",
+    "bundleID": "md.elvisantol.torefresh"
   },
   {
-    "name": "Toastmas",
-    "category": "Т-Банк",
-    "version": "7.37.1",
-    "size": "212 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_300b8251060dd.webp",
-    "download": "https://cdn.appbank.pw/ipa/230626/toastmas.ipa"
+    "name": "Альфа-Банк",
+    "maskName": "Холдер",
+    "category": "Альфа-Банк",
+    "version": "16.02.0",
+    "versionDate": "2026-06-19",
+    "size": "134 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_a43fcd93adc8f.webp",
+    "download": "https://cdn.appbank.pw/ipa/180626/holder.ipa",
+    "bundleID": "com.aholder.app"
   },
   {
-    "name": "BeberRef",
-    "category": "Т-Банк",
-    "version": "7.15.0",
-    "size": "177 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_fb463d7aa2cd8.webp",
-    "download": "https://cdn.appbank.pw/ipa/r/tbank/testflight/beberref.ipa"
-  },
-  {
-    "name": "Flavor InVault",
-    "category": "Т-Банк",
-    "version": "7.13.0",
-    "size": "189 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_be9b49e786a41.webp",
-    "download": "https://cdn.appbank.pw/ipa/r/tbank/flavor.ipa"
-  },
-  {
-    "name": "VibeMap",
-    "category": "Т-Бизнес",
-    "version": "3.25",
-    "size": "114 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_f039287874027.webp",
-    "download": "https://cdn.appbank.pw/ipa/230626/vibemap.ipa"
-  },
-  {
-    "name": "WishList",
-    "category": "Т-Бизнес",
-    "version": "3.4",
-    "size": "157 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_d8b65be367de0.webp",
-    "download": "https://cdn.appbank.pw/ipa/230626/wishlist.ipa"
-  },
-  {
-    "name": "Цифровой сейф",
-    "category": "Газпромбанк",
-    "version": "1.1.3",
-    "size": "254 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_a1ee4c7fb6c10.webp",
-    "download": "https://cdn.appbank.pw/ipa/100526/digitalseif.ipa"
-  },
-  {
-    "name": "GiftMate",
-    "category": "Газпромбанк",
-    "version": "1.0.0",
-    "size": "230 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_626b56380f7c0.webp",
-    "download": "https://cdn.appbank.pw/ipa/giftmate/giftmate.ipa"
-  },
-  {
-    "name": "BillFO",
-    "category": "Газпром Инвестиции",
-    "version": "1.0",
-    "size": "91 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_a22a04af992a7.webp",
-    "download": "https://cdn.appbank.pw/ipa/130726/billfo.ipa"
-  },
-  {
-    "name": "Чайная церемония",
-    "category": "ПСБ",
-    "version": "1.6.3",
-    "size": "147 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_942e2b321777c.webp",
-    "download": "https://cdn.appbank.pw/ipa/130726/teaceremony.ipa"
-  },
-  {
-    "name": "Наливаем Кофе",
-    "category": "ПСБ",
-    "version": "1.4.1",
-    "size": "108 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_b67612f318ac5.webp",
-    "download": "https://cdn.appbank.pw/ipa/r/psb/coffee.ipa"
-  },
-  {
-    "name": "Бархат",
-    "category": "ПСБ",
-    "version": "2.6",
-    "size": "152 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_6a574ac6eab2c.webp",
-    "download": "https://cdn.appbank.pw/ipa/200726/barxat.ipa"
-  },
-  {
-    "name": "Бычок Каберне",
-    "category": "РСХБ",
-    "version": "25.12.3",
-    "size": "124 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_4b429607fcfb4.webp",
-    "download": "https://cdn.appbank.pw/ipa/180626/kaberne.ipa"
-  },
-  {
-    "name": "PRO жарка",
-    "category": "РСХБ",
-    "version": "26.01.0",
-    "size": "132 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_69e1e5ea01926.webp",
-    "download": "https://cdn.appbank.pw/ipa/100526/profrying.ipa"
-  },
-  {
-    "name": "Тракторный клуб",
-    "category": "РСХБ",
-    "version": "1.0.5",
-    "size": "194 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_f913b8000722d.webp",
-    "download": "https://cdn.appbank.pw/ipa/130726/tractorclub.ipa"
-  },
-  {
-    "name": "Пять монет",
-    "category": "МТС Банк",
-    "version": "11.0.0",
-    "size": "152 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_efb16f864012c.webp",
-    "download": "https://cdn.appbank.pw/ipa/r/mts/5coins.ipa"
-  },
-  {
-    "name": "Дом Йоги",
-    "category": "МТС Банк",
-    "version": "10.0.0",
-    "size": "480 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_9fc2f3737c680.webp",
-    "download": "https://cdn.appbank.pw/ipa/r/mts/yoga.ipa"
-  },
-  {
-    "name": "Карта покрытия",
-    "category": "Сбермобайл",
-    "version": "1.0.1",
-    "size": "79 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_6d466828eccc9.webp",
-    "download": "https://cdn.appbank.pw/ipa/180626/focus.ipa"
-  },
-  {
-    "name": "Карта вышек",
-    "category": "Сбермобайл",
-    "version": "2.6",
-    "size": "56 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_d3e07245bca33.webp",
-    "download": "https://cdn.appbank.pw/ipa/r/sber/mobile/cellsmap.ipa"
-  },
-  {
-    "name": "Дом семьи",
-    "category": "ДомКлик",
-    "version": "1.0",
-    "size": "168 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_b85dd683a891a.webp",
-    "download": "https://cdn.appbank.pw/ipa/100526/homefamily.ipa"
-  },
-  {
-    "name": "Дом Гид",
-    "category": "ДомКлик",
-    "version": "1.2",
-    "size": "146 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_495dd15d16f34.webp",
-    "download": "https://cdn.appbank.pw/ipa/domclickfix/domgid.ipa"
-  },
-  {
-    "name": "СКБ",
-    "category": "Совкомбанк",
-    "version": "1.1.0",
-    "size": "42 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_f3293456a70c1.webp",
-    "download": "https://cdn.appbank.pw/ipa/130726/skb.ipa"
-  },
-  {
-    "name": "ОМП",
-    "category": "Совкомбанк",
-    "version": "1.0.0",
-    "size": "40 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_557c541d221b9.webp",
-    "download": "https://cdn.appbank.pw/ipa/180626/omp.ipa"
-  },
-  {
-    "name": "High Tracker",
-    "category": "Совкомбанк",
-    "version": "1.3.0",
-    "size": "112 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_3c3537443f73b.webp",
-    "download": "https://cdn.appbank.pw/ipa/100526/hightracker.ipa"
-  },
-  {
-    "name": "Home Ключи",
-    "category": "Дом.РФ",
-    "version": "5.3.2.5",
-    "size": "82 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_44f5314e32a83.webp",
-    "download": "https://cdn.appbank.pw/ipa/100526/homekey.ipa"
-  },
-  {
-    "name": "Лукич",
-    "category": "Рокетбанк",
-    "version": "2.0.2",
-    "size": "29 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_b0ed03e053066.webp",
-    "download": "https://cdn.appbank.pw/ipa/180626/lukich.ipa"
-  },
-  {
-    "name": "Аут",
-    "category": "Рокетбанк",
-    "version": "2.0.2",
-    "size": "286 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_166ec12ae4bfb.webp",
-    "download": "https://cdn.appbank.pw/ipa/r/rocket/aut.ipa"
-  },
-  {
-    "name": "UraniaTime",
-    "category": "YooMoney",
-    "version": "1.5.9",
-    "size": "69 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_981e448880b43.webp",
-    "download": "https://cdn.appbank.pw/ipa/yootime/uraniatime.ipa"
-  },
-  {
-    "name": "ЮMoney",
-    "category": "YooMoney",
-    "version": "11.12.0",
-    "size": "99 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_343d1d83b5e08.webp",
-    "download": "https://cdn.appbank.pw/ipa/yootime/yoomoney.ipa"
-  },
-  {
-    "name": "Okko",
-    "category": "Okko",
-    "version": "14.4.0",
-    "size": "267 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_d0812c988cd6a.webp",
-    "download": "https://cdn.appbank.pw/ipa/okko/okko.ipa"
-  },
-  {
-    "name": "RUTUBE: Смотри видео здесь",
-    "category": "RUTUBE",
-    "version": "47.15.0",
-    "size": "18 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_c90f22b2c0f20.webp",
-    "download": "https://cdn.appbank.pw/ipa/100526/rutube.ipa"
-  },
-  {
-    "name": "G8AI",
-    "category": "GIGA CHAT",
-    "version": "1.3.1",
-    "size": "53 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_d4bbea8b1641c.webp",
-    "download": "https://cdn.appbank.pw/ipa/100526/g8ai.ipa"
-  },
-  {
-    "name": "Л.Доставка",
-    "category": "Лента",
-    "version": "6.86.0",
-    "size": "248 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_0944643b88f6e.webp",
-    "download": "https://cdn.appbank.pw/ipa/230626/ldelivery.ipa"
-  },
-  {
-    "name": "Лента",
-    "category": "Лента",
-    "version": "6.81.0",
-    "size": "268 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_1d4397aadeb94.webp",
-    "download": "https://cdn.appbank.pw/ipa/100526/lenta.ipa"
-  },
-  {
-    "name": "Yota",
-    "category": "Yota",
-    "version": "13.90",
-    "size": "41 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_83f70b104314c.webp",
-    "download": "https://cdn.appbank.pw/ipa/100526/yota.ipa"
-  },
-  {
-    "name": "Здоровье и страхование",
-    "category": "СОГАЗ",
-    "version": "3.1.3",
-    "size": "29 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_30ca9fb8e6a30.webp",
-    "download": "https://cdn.appbank.pw/ipa/100526/sogaz.ipa"
-  },
-  {
-    "name": "MySaveSpot",
-    "category": "Зенит Банк",
-    "version": "3.0.4",
-    "size": "32 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_9568abfdd30b9.webp",
-    "download": "https://cdn.appbank.pw/ipa/130726/nysavespot.ipa"
-  },
-  {
-    "name": "TimeToTravel",
-    "category": "Зенит Банк",
-    "version": "3.0.3",
-    "size": "49 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_3f848712e0aca.webp",
-    "download": "https://cdn.appbank.pw/ipa/100526/timetotravel.ipa"
-  },
-  {
-    "name": "Сириус",
-    "category": "ВТБ",
-    "version": "2.0.1",
-    "size": "331 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_9902543d9e4b5.webp",
-    "download": "https://cdn.appbank.pw/ipa/200626/sirius.ipa"
-  },
-  {
-    "name": "GetQuot",
-    "category": "ВТБ Инвестиции",
-    "version": "2.0",
-    "size": "119 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_147f659a91f47.webp",
-    "download": "https://cdn.appbank.pw/ipa/130726/getquot.ipa"
-  },
-  {
-    "name": "Agnia",
-    "category": "ВТБ Инвестиции",
-    "version": "3.0",
-    "size": "119 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_4a32dd7ba4681.webp",
-    "download": "https://cdn.appbank.pw/ipa/260626/agnia.ipa"
-  },
-  {
-    "name": "Ночный код",
-    "category": "Новикомбанк",
-    "version": "1.10.2",
-    "size": "14 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_87b904cb51c90.webp",
-    "download": "https://cdn.appbank.pw/ipa/200726/lunarcode.ipa"
-  },
-  {
-    "name": "Obraz",
-    "category": "Новикомбанк",
-    "version": "0.57.0",
-    "size": "36 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_cbe508b939050.webp",
-    "download": "https://cdn.appbank.pw/ipa/230626/obraz.ipa"
-  },
-  {
-    "name": "Быстро к Столу",
+    "name": "БКС Банк",
+    "maskName": "Быстро к Столу",
     "category": "БКС Банк",
     "version": "1.0.0",
+    "versionDate": "2026-06-26",
     "size": "106 МБ",
     "icon": "https://cdn.appbank.pw/fake/icon_19d0339b6bf55.webp",
-    "download": "https://cdn.appbank.pw/ipa/260626/bcs.ipa"
+    "download": "https://cdn.appbank.pw/ipa/260626/bcs.ipa",
+    "bundleID": "bcs"
   },
   {
-    "name": "Цифровая аналитика",
-    "category": "Хлынов Банк",
-    "version": "2.11.2",
-    "size": "29 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_72060eb762e96.webp",
-    "download": "https://cdn.appbank.pw/ipa/260626/digitalanalytics.ipa"
+    "name": "ВТБ",
+    "maskName": "Сириус",
+    "category": "ВТБ",
+    "version": "2.0.1",
+    "versionDate": "2026-06-20",
+    "size": "331 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_9902543d9e4b5.webp",
+    "download": "https://cdn.appbank.pw/ipa/200626/sirius.ipa",
+    "bundleID": "com.sm.FlowTime"
+  },
+  {
+    "name": "ВТБ Инвестиции",
+    "maskName": "Agnia",
+    "category": "ВТБ Инвестиции",
+    "version": "3.0",
+    "versionDate": "2026-06-26",
+    "size": "119 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_4a32dd7ba4681.webp",
+    "download": "https://cdn.appbank.pw/ipa/260626/agnia.ipa",
+    "bundleID": "com.garmoniadush.agnia"
+  },
+  {
+    "name": "ВТБ Инвестиции",
+    "maskName": "GetQuot",
+    "category": "ВТБ Инвестиции",
+    "version": "2.0",
+    "versionDate": "2026-07-14",
+    "size": "119 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_147f659a91f47.webp",
+    "download": "https://cdn.appbank.pw/ipa/130726/getquot.ipa",
+    "bundleID": "pro.smartitservices.getquote"
+  },
+  {
+    "name": "Газпром Инвестиции",
+    "maskName": "BillFO",
+    "category": "Газпром Инвестиции",
+    "version": "1.0",
+    "versionDate": "2026-03-09",
+    "size": "91 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_a22a04af992a7.webp",
+    "download": "https://cdn.appbank.pw/ipa/130726/billfo.ipa",
+    "bundleID": "ru.billfo.mobile"
+  },
+  {
+    "name": "Газпромбанк",
+    "maskName": "Цифровой сейф",
+    "category": "Газпромбанк",
+    "version": "1.1.3",
+    "versionDate": "2026-04-13",
+    "size": "254 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_a1ee4c7fb6c10.webp",
+    "download": "https://cdn.appbank.pw/ipa/100526/digitalseif.ipa",
+    "bundleID": "com.app.home.vault.prod"
+  },
+  {
+    "name": "Дом.РФ Банк",
+    "maskName": "Home Ключи",
+    "category": "Дом.РФ Банк",
+    "version": "5.3.2.5",
+    "versionDate": "2026-03-26",
+    "size": "82 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_44f5314e32a83.webp",
+    "download": "https://cdn.appbank.pw/ipa/100526/homekey.ipa",
+    "bundleID": "homekey"
+  },
+  {
+    "name": "ДомКлик",
+    "maskName": "Дом семьи",
+    "category": "ДомКлик",
+    "version": "1.0",
+    "versionDate": "2026-03-26",
+    "size": "168 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_b85dd683a891a.webp",
+    "download": "https://cdn.appbank.pw/ipa/100526/homefamily.ipa",
+    "bundleID": "com.bageologyapp"
+  },
+  {
+    "name": "Зенит Банк",
+    "maskName": "MySaveSpot",
+    "category": "Зенит Банк",
+    "version": "3.0.4",
+    "versionDate": "2026-07-14",
+    "size": "32 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_9568abfdd30b9.webp",
+    "download": "https://cdn.appbank.pw/ipa/130726/nysavespot.ipa",
+    "bundleID": "com.mysavespot.app"
+  },
+  {
+    "name": "Зенит Банк",
+    "maskName": "TimeToTravel",
+    "category": "Зенит Банк",
+    "version": "3.0.3",
+    "versionDate": "2026-05-10",
+    "size": "49 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_3f848712e0aca.webp",
+    "download": "https://cdn.appbank.pw/ipa/100526/timetotravel.ipa",
+    "bundleID": "com.zenittime.travel"
   },
   {
     "name": "Купер",
+    "maskName": "Купер",
     "category": "Купер",
     "version": "17.0.517",
+    "versionDate": "2026-06-26",
     "size": "77 МБ",
     "icon": "https://cdn.appbank.pw/fake/icon_81d8df5e5eee6.webp",
-    "download": "https://cdn.appbank.pw/ipa/260626/kuper.ipa"
+    "download": "https://cdn.appbank.pw/ipa/260626/kuper.ipa",
+    "bundleID": "kuper"
   },
   {
-    "name": "MyHabitTrack",
-    "category": "ФинУслуги",
-    "version": "4.11.0",
-    "size": "131 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_5b1add2dc8937.webp",
-    "download": "https://cdn.appbank.pw/ipa/130726/myhabittrack.ipa"
+    "name": "Лента",
+    "maskName": "Л.Доставка",
+    "category": "Лента",
+    "version": "6.86.0",
+    "versionDate": "2026-06-23",
+    "size": "248 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_0944643b88f6e.webp",
+    "download": "https://cdn.appbank.pw/ipa/230626/ldelivery.ipa",
+    "bundleID": "com.alenak.ldostavka"
   },
   {
-    "name": "SLTR",
+    "name": "Лента",
+    "maskName": "Лента",
+    "category": "Лента",
+    "version": "6.81.0",
+    "versionDate": "2026-05-10",
+    "size": "268 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_1d4397aadeb94.webp",
+    "download": "https://cdn.appbank.pw/ipa/100526/lenta.ipa",
+    "bundleID": "ru.lenta.app"
+  },
+  {
+    "name": "МКБ Банк",
+    "maskName": "SLTR",
     "category": "МКБ Банк",
     "version": "1.0.0",
+    "versionDate": "2026-07-14",
     "size": "273 МБ",
     "icon": "https://cdn.appbank.pw/fake/icon_6a3fa292a911a.webp",
-    "download": "https://cdn.appbank.pw/ipa/130726/sltr.ipa"
+    "download": "https://cdn.appbank.pw/ipa/130726/sltr.ipa",
+    "bundleID": "com.artur.sleeptimer.app"
   },
   {
-    "name": "Payback Pad",
-    "category": "Уралсиб",
-    "version": "1.0",
-    "size": "121 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_6a3e749dd55a6.webp",
-    "download": "https://cdn.appbank.pw/ipa/130726/paybackpad.ipa"
+    "name": "МТС Банк",
+    "maskName": "Пять монет",
+    "category": "МТС Банк",
+    "version": "11.0.0",
+    "versionDate": "2026-03-09",
+    "size": "152 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_efb16f864012c.webp",
+    "download": "https://cdn.appbank.pw/ipa/r/mts/5coins.ipa",
+    "bundleID": "fivecoins.appstore"
   },
   {
-    "name": "ВКонтакте: музыка, видео, чат",
-    "category": "VK",
-    "version": "8.183",
-    "size": "225 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_4e280512a20c2.webp",
-    "download": "https://cdn.appbank.pw/ipa/130726/vk.ipa"
+    "name": "Новикомбанк",
+    "maskName": "Ночный код",
+    "category": "Новикомбанк",
+    "version": "1.10.2",
+    "versionDate": "2026-07-20",
+    "size": "14 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_87b904cb51c90.webp",
+    "download": "https://cdn.appbank.pw/ipa/200726/lunarcode.ipa",
+    "bundleID": "com.kozunpartners.nightcode"
   },
   {
-    "name": "Mail: Почта, Облако, Календарь",
-    "category": "VK",
-    "version": "15.92.0",
-    "size": "148 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_9772fc983f363.webp",
-    "download": "https://cdn.appbank.pw/ipa/130726/mail.ipa"
+    "name": "Новикомбанк",
+    "maskName": "Obraz",
+    "category": "Новикомбанк",
+    "version": "0.57.0",
+    "versionDate": "2026-06-23",
+    "size": "36 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_cbe508b939050.webp",
+    "download": "https://cdn.appbank.pw/ipa/230626/obraz.ipa",
+    "bundleID": "tech.metlink.photon"
   },
   {
-    "name": "РЖД Пассажирам",
+    "name": "ПСБ",
+    "maskName": "Чайная церемония",
+    "category": "ПСБ",
+    "version": "1.6.3",
+    "versionDate": "2026-07-14",
+    "size": "147 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_942e2b321777c.webp",
+    "download": "https://cdn.appbank.pw/ipa/130726/teaceremony.ipa",
+    "bundleID": "com.dvoe.teaceremony"
+  },
+  {
+    "name": "ПСБ Бизнес",
+    "maskName": "Бархат",
+    "category": "ПСБ Бизнес",
+    "version": "2.6",
+    "versionDate": "2026-07-20",
+    "size": "152 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_6a574ac6eab2c.webp",
+    "download": "https://cdn.appbank.pw/ipa/200726/barxat.ipa",
+    "bundleID": "ru.fokinakatya.PetCare"
+  },
+  {
+    "name": "РЖД",
+    "maskName": "РЖД Пассажирам",
     "category": "РЖД",
     "version": "1.55.4",
+    "versionDate": "2026-07-14",
     "size": "32 МБ",
     "icon": "https://cdn.appbank.pw/fake/icon_a176846e10f26.webp",
-    "download": "https://cdn.appbank.pw/ipa/130726/rzd.ipa"
+    "download": "https://cdn.appbank.pw/ipa/130726/rzd.ipa",
+    "bundleID": "ru.dorogi20260609.passenger"
   },
   {
-    "name": "Одноклассники: Социальная сеть",
+    "name": "Рокетбанк",
+    "maskName": "Лукич",
+    "category": "Рокетбанк",
+    "version": "2.0.2",
+    "versionDate": "2026-06-19",
+    "size": "29 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_b0ed03e053066.webp",
+    "download": "https://cdn.appbank.pw/ipa/180626/lukich.ipa",
+    "bundleID": "com.garden.application"
+  },
+  {
+    "name": "РСХБ",
+    "maskName": "Тракторный клуб",
+    "category": "РСХБ",
+    "version": "1.0.5",
+    "versionDate": "2026-07-14",
+    "size": "194 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_f913b8000722d.webp",
+    "download": "https://cdn.appbank.pw/ipa/130726/tractorclub.ipa",
+    "bundleID": "com.agro.agriculturalApplication"
+  },
+  {
+    "name": "Сбер Бизнес",
+    "maskName": "AI dente",
+    "category": "Сбер Бизнес",
+    "version": "4.00.0",
+    "versionDate": "2026-06-26",
+    "size": "159 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_b19155fdc9ca7.webp",
+    "download": "https://cdn.appbank.pw/ipa/260626/aidente.ipa",
+    "bundleID": "inv"
+  },
+  {
+    "name": "Сбер Инвестиции",
+    "maskName": "Актив",
+    "category": "Сбер Инвестиции",
+    "version": "3.34.0",
+    "versionDate": "2026-07-14",
+    "size": "94 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_6a41fc65c060c.webp",
+    "download": "https://cdn.appbank.pw/ipa/130726/activ.ipa",
+    "bundleID": "app.work.folio"
+  },
+  {
+    "name": "Сбербанк Онлайн",
+    "maskName": "Семейный Онлайн",
+    "category": "Сбербанк Онлайн",
+    "version": "16.13.0",
+    "versionDate": "2026-06-23",
+    "size": "271 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_9aa02273a70c0.webp",
+    "download": "https://cdn.appbank.pw/ipa/230626/familyonline.ipa",
+    "bundleID": "com.inv.gen"
+  },
+  {
+    "name": "Сбермобайл",
+    "maskName": "Карта вышек",
+    "category": "Сбермобайл",
+    "version": "2.6",
+    "versionDate": "2026-03-09",
+    "size": "56 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_d3e07245bca33.webp",
+    "download": "https://cdn.appbank.pw/ipa/r/sber/mobile/cellsmap.ipa",
+    "bundleID": "ru.cell.towers"
+  },
+  {
+    "name": "Сбермобайл",
+    "maskName": "Карта покрытия",
+    "category": "Сбермобайл",
+    "version": "1.0.1",
+    "versionDate": "2026-06-19",
+    "size": "79 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_6d466828eccc9.webp",
+    "download": "https://cdn.appbank.pw/ipa/180626/focus.ipa",
+    "bundleID": "ru.digitdetox.app"
+  },
+  {
+    "name": "СберKids",
+    "maskName": "BookTracker: Reading Room",
+    "category": "СберKids",
+    "version": "5.12.0",
+    "versionDate": "2026-03-09",
+    "size": "63 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_027ffcd549fb7.webp",
+    "download": "https://cdn.appbank.pw/ipa/130726/booktracker.ipa",
+    "bundleID": "kz.erzhan.booktracker.com"
+  },
+  {
+    "name": "СберKids",
+    "maskName": "Smart Quiz",
+    "category": "СберKids",
+    "version": "5.10.1",
+    "versionDate": "2026-03-09",
+    "size": "94 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_3b24ed7e224dd.webp",
+    "download": "https://cdn.appbank.pw/ipa/100526/smartquiz.ipa",
+    "bundleID": "smquiz.smquiz.smquiz"
+  },
+  {
+    "name": "Совком Инвестиции",
+    "maskName": "High Tracker",
+    "category": "Совком Инвестиции",
+    "version": "1.3.0",
+    "versionDate": "2026-05-10",
+    "size": "112 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_3c3537443f73b.webp",
+    "download": "https://cdn.appbank.pw/ipa/100526/hightracker.ipa",
+    "bundleID": "com.sovcom.investments.hightracker"
+  },
+  {
+    "name": "Совкомбанк",
+    "maskName": "СКБ",
+    "category": "Совкомбанк",
+    "version": "1.1.0",
+    "versionDate": "2026-07-14",
+    "size": "42 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_f3293456a70c1.webp",
+    "download": "https://cdn.appbank.pw/ipa/130726/skb.ipa",
+    "bundleID": "ru.promocodes"
+  },
+  {
+    "name": "СОГАЗ",
+    "maskName": "Здоровье и страхование",
+    "category": "СОГАЗ",
+    "version": "3.1.3",
+    "versionDate": "2026-05-10",
+    "size": "29 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_30ca9fb8e6a30.webp",
+    "download": "https://cdn.appbank.pw/ipa/100526/sogaz.ipa",
+    "bundleID": "ru.sogaz.health"
+  },
+  {
+    "name": "Т-Банк",
+    "maskName": "Toastmas",
+    "category": "Т-Банк",
+    "version": "7.37.1",
+    "versionDate": "2026-06-24",
+    "size": "212 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_300b8251060dd.webp",
+    "download": "https://cdn.appbank.pw/ipa/230626/toastmas.ipa",
+    "bundleID": "com.toastmaster.app"
+  },
+  {
+    "name": "Т-Бизнес",
+    "maskName": "VibeMap",
+    "category": "Т-Бизнес",
+    "version": "3.25",
+    "versionDate": "2026-06-23",
+    "size": "114 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_f039287874027.webp",
+    "download": "https://cdn.appbank.pw/ipa/230626/vibemap.ipa",
+    "bundleID": "com.moodmap.app"
+  },
+  {
+    "name": "Уралсиб",
+    "maskName": "Payback Pad",
+    "category": "Уралсиб",
+    "version": "1.0",
+    "versionDate": "2026-07-14",
+    "size": "121 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_6a3e749dd55a6.webp",
+    "download": "https://cdn.appbank.pw/ipa/130726/paybackpad.ipa",
+    "bundleID": "est.maarjaOun.paybackPad"
+  },
+  {
+    "name": "ФинУслуги",
+    "maskName": "MyHabitTrack",
+    "category": "ФинУслуги",
+    "version": "4.11.0",
+    "versionDate": "2026-07-14",
+    "size": "131 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_5b1add2dc8937.webp",
+    "download": "https://cdn.appbank.pw/ipa/130726/myhabittrack.ipa",
+    "bundleID": "com.habits.MyHabitTrack"
+  },
+  {
+    "name": "Хлынов Банк",
+    "maskName": "Цифровая аналитика",
+    "category": "Хлынов Банк",
+    "version": "2.11.2",
+    "versionDate": "2026-06-26",
+    "size": "29 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_72060eb762e96.webp",
+    "download": "https://cdn.appbank.pw/ipa/260626/digitalanalytics.ipa",
+    "bundleID": "ru.digitalelephants.financecalc"
+  },
+  {
+    "name": "GIGA CHAT",
+    "maskName": "G8AI",
+    "category": "GIGA CHAT",
+    "version": "1.3.1",
+    "versionDate": "2026-05-10",
+    "size": "53 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_d4bbea8b1641c.webp",
+    "download": "https://cdn.appbank.pw/ipa/100526/g8ai.ipa",
+    "bundleID": "com.gigachat.g8ai"
+  },
+  {
+    "name": "Okko",
+    "maskName": "Okko",
+    "category": "Okko",
+    "version": "14.4.0",
+    "versionDate": "2026-03-09",
+    "size": "267 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_d0812c988cd6a.webp",
+    "download": "https://cdn.appbank.pw/ipa/okko/okko.ipa",
+    "bundleID": "okko"
+  },
+  {
+    "name": "RUTUBE",
+    "maskName": "RUTUBE: Смотри видео здесь",
+    "category": "RUTUBE",
+    "version": "47.15.0",
+    "versionDate": "2026-04-13",
+    "size": "18 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_c90f22b2c0f20.webp",
+    "download": "https://cdn.appbank.pw/ipa/100526/rutube.ipa",
+    "bundleID": "rutube"
+  },
+  {
+    "name": "VK",
+    "maskName": "ВКонтакте: музыка, видео, чат",
     "category": "VK",
-    "version": "11.63.1",
-    "size": "174 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_d6b7a5e3e2165.webp",
-    "download": "https://cdn.appbank.pw/ipa/200726/ok.ipa"
+    "version": "8.183",
+    "versionDate": "2026-07-14",
+    "size": "225 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_4e280512a20c2.webp",
+    "download": "https://cdn.appbank.pw/ipa/130726/vk.ipa",
+    "bundleID": "com.vk.vkclient"
   },
   {
-    "name": "VK Видео－кино, мультики, клипы",
-    "category": "VK",
-    "version": "1.153",
-    "size": "127 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_3511a15dc852a.webp",
-    "download": "https://cdn.appbank.pw/ipa/200726/vkvideo.ipa"
-  },
-  {
-    "name": "Youla. Buy and sell easily",
-    "category": "VK",
-    "version": "6.0",
-    "size": "80 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_c9ceb684a4b15.webp",
-    "download": "https://cdn.appbank.pw/ipa/200726/youla.ipa"
-  },
-  {
-    "name": "Маруся — голосовой помощник",
-    "category": "VK",
-    "version": "1.81.0",
-    "size": "61 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_7060544ff5cb3.webp",
-    "download": "https://cdn.appbank.pw/ipa/200726/marysya.ipa"
-  },
-  {
-    "name": "Дзен — новости, статьи, видео",
+    "name": "VK",
+    "maskName": "Дзен — новости, статьи, видео",
     "category": "VK",
     "version": "26.7.1",
+    "versionDate": "2026-07-20",
     "size": "114 МБ",
     "icon": "https://cdn.appbank.pw/fake/icon_e0c14164cde93.webp",
-    "download": "https://cdn.appbank.pw/ipa/200726/dzen.ipa"
+    "download": "https://cdn.appbank.pw/ipa/200726/dzen.ipa",
+    "bundleID": "ru.yandex.mobile.zen"
   },
   {
-    "name": "VK Mail: secure email client",
+    "name": "VK",
+    "maskName": "Маруся — голосовой помощник",
+    "category": "VK",
+    "version": "1.81.0",
+    "versionDate": "2026-07-20",
+    "size": "61 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_7060544ff5cb3.webp",
+    "download": "https://cdn.appbank.pw/ipa/200726/marysya.ipa",
+    "bundleID": "ru.mail.electroscope"
+  },
+  {
+    "name": "VK",
+    "maskName": "Одноклассники: Социальная сеть",
+    "category": "VK",
+    "version": "11.63.1",
+    "versionDate": "2026-07-20",
+    "size": "174 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_d6b7a5e3e2165.webp",
+    "download": "https://cdn.appbank.pw/ipa/200726/ok.ipa",
+    "bundleID": "ru.odnoklassniki.iphone"
+  },
+  {
+    "name": "VK",
+    "maskName": "Mail: Почта, Облако, Календарь",
+    "category": "VK",
+    "version": "15.92.0",
+    "versionDate": "2026-07-14",
+    "size": "148 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_9772fc983f363.webp",
+    "download": "https://cdn.appbank.pw/ipa/130726/mail.ipa",
+    "bundleID": "ru.mail.mail"
+  },
+  {
+    "name": "VK",
+    "maskName": "VK Видео－кино, мультики, клипы",
+    "category": "VK",
+    "version": "1.153",
+    "versionDate": "2026-07-20",
+    "size": "127 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_3511a15dc852a.webp",
+    "download": "https://cdn.appbank.pw/ipa/200726/vkvideo.ipa",
+    "bundleID": "com.vk.vkvideo.prod"
+  },
+  {
+    "name": "VK",
+    "maskName": "VK Mail: secure email client",
     "category": "VK",
     "version": "3.92.0",
+    "versionDate": "2026-07-20",
     "size": "402 МБ",
     "icon": "https://cdn.appbank.pw/fake/icon_43f5ba778737d.webp",
-    "download": "https://cdn.appbank.pw/ipa/200726/vkmail.ipa"
+    "download": "https://cdn.appbank.pw/ipa/200726/vkmail.ipa",
+    "bundleID": "com.vk.mail"
+  },
+  {
+    "name": "VK",
+    "maskName": "Youla. Buy and sell easily",
+    "category": "VK",
+    "version": "6.0",
+    "versionDate": "2026-07-20",
+    "size": "80 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_c9ceb684a4b15.webp",
+    "download": "https://cdn.appbank.pw/ipa/200726/youla.ipa",
+    "bundleID": "com.allgoritm.Youla"
+  },
+  {
+    "name": "YooMoney",
+    "maskName": "ЮMoney",
+    "category": "YooMoney",
+    "version": "11.12.0",
+    "versionDate": "2026-03-09",
+    "size": "99 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_343d1d83b5e08.webp",
+    "download": "https://cdn.appbank.pw/ipa/yootime/yoomoney.ipa",
+    "bundleID": "ru.yoo.money"
+  },
+  {
+    "name": "Yota",
+    "maskName": "Yota",
+    "category": "Yota",
+    "version": "13.90",
+    "versionDate": "2026-05-10",
+    "size": "41 МБ",
+    "icon": "https://cdn.appbank.pw/fake/icon_83f70b104314c.webp",
+    "download": "https://cdn.appbank.pw/ipa/100526/yota.ipa",
+    "bundleID": "ru.yota.app"
   }
 ]
+
