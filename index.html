@@ -11,12 +11,16 @@
     main { max-width: 760px; margin: auto; padding: 28px 16px 56px; }
     h1 { margin: 0 0 8px; font-size: 30px; }
     .lead, .note { color: #aeb2bb; line-height: 1.5; }
+    .toolbar { display: flex; gap: 10px; margin: 20px 0 14px; }
+    input, select { box-sizing: border-box; width: 100%; background: #1b1d22; color: #f5f6f7; border: 1px solid #30343d; border-radius: 10px; padding: 11px 12px; font: inherit; }
+    select { max-width: 210px; }
     .note { background: #1b1d22; border: 1px solid #30343d; border-radius: 14px; padding: 14px 16px; margin: 20px 0; }
     .card { display: flex; gap: 14px; align-items: center; background: #1b1d22; border: 1px solid #30343d; border-radius: 16px; padding: 14px; margin: 12px 0; }
     .icon { width: 54px; height: 54px; border-radius: 13px; background: #30343d; object-fit: cover; flex: 0 0 auto; }
     .info { min-width: 0; flex: 1; }
     .name { font-weight: 700; font-size: 17px; }
     .meta { color: #aeb2bb; font-size: 14px; margin-top: 4px; }
+    .tag { display: inline-block; color: #9fc0ff; font-size: 12px; margin-top: 5px; }
     a.button { display: inline-block; background: #3478f6; color: white; text-decoration: none; padding: 10px 14px; border-radius: 10px; font-weight: 650; white-space: nowrap; }
     .empty { padding: 28px 0; color: #aeb2bb; }
     ol { padding-left: 23px; color: #d8dae0; line-height: 1.6; }
@@ -28,6 +32,7 @@
   <h1>Приложения для iPhone</h1>
   <p class="lead">Скачайте IPA-файл и установите его через Feather или ESign с вашим сертификатом.</p>
   <div class="note"><strong>Важно.</strong> IPA не устанавливается сам по себе. Перед скачиванием установите приложение-подписант и добавьте свой сертификат. Используйте только файлы, на распространение которых у нас есть разрешение.</div>
+  <div class="toolbar"><input id="search" type="search" placeholder="Поиск приложения…"><select id="category"><option value="">Все категории</option></select></div>
   <section id="apps" aria-live="polite"><div class="empty">Загрузка каталога…</div></section>
   <div class="note">
     <strong>Как установить</strong>
@@ -36,14 +41,17 @@
 </main>
 <script>
   const esc = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
-  fetch('apps.json', {cache: 'no-store'}).then(r => r.json()).then(apps => {
-    const root = document.querySelector('#apps');
+  fetch('apps.json?v=3', {cache: 'no-store'}).then(r => r.json()).then(apps => {
+    const root = document.querySelector('#apps'), search = document.querySelector('#search'), category = document.querySelector('#category');
     if (!Array.isArray(apps) || !apps.length) { root.innerHTML = '<div class="empty">Приложения пока не добавлены.</div>'; return; }
-    root.innerHTML = apps.map(app => `<article class="card">
-      ${app.icon ? `<img class="icon" src="${esc(app.icon)}" alt="">` : '<div class="icon"></div>'}
-      <div class="info"><div class="name">${esc(app.name)}</div><div class="meta">Версия ${esc(app.version || '—')}${app.size ? ` · ${esc(app.size)}` : ''}</div></div>
-      <a class="button" href="${esc(app.download)}" rel="noopener">Скачать IPA</a>
-    </article>`).join('');
+    [...new Set(apps.map(a => a.category).filter(Boolean))].sort((a,b) => a.localeCompare(b, 'ru')).forEach(c => category.insertAdjacentHTML('beforeend', `<option>${esc(c)}</option>`));
+    const render = () => { const q = search.value.trim().toLowerCase(), c = category.value; const filtered = apps.filter(a => (!q || `${a.name} ${a.category}`.toLowerCase().includes(q)) && (!c || a.category === c));
+      root.innerHTML = filtered.length ? filtered.map(app => `<article class="card">
+        ${app.icon ? `<img class="icon" src="${esc(app.icon)}" alt="">` : '<div class="icon"></div>'}
+        <div class="info"><div class="name">${esc(app.name)}</div><div class="tag">${esc(app.category || 'Другое')}</div><div class="meta">Версия ${esc(app.version || '—')}${app.size ? ` · ${esc(app.size)}` : ''}</div></div>
+        <a class="button" href="${esc(app.download)}" rel="noopener">Скачать IPA</a>
+      </article>`).join('') : '<div class="empty">Ничего не найдено.</div>'; };
+    search.addEventListener('input', render); category.addEventListener('change', render); render();
   }).catch(() => { document.querySelector('#apps').innerHTML = '<div class="empty">Не удалось загрузить каталог. Попробуйте обновить страницу.</div>'; });
 </script>
 </body>
