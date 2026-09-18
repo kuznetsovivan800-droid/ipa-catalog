@@ -154,17 +154,6 @@
     "bundleID": "com.alena.bistro"
   },
   {
-    "name": "Лента",
-    "maskName": "Лента",
-    "category": "Лента",
-    "version": "6.81.0",
-    "versionDate": "2026-05-10",
-    "size": "268 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_1d4397aadeb94.webp",
-    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/ru.lenta.app.ipa",
-    "bundleID": "ru.lenta.app"
-  },
-  {
     "name": "МКБ Банк",
     "maskName": "Metric",
     "category": "МКБ Банк",
@@ -196,17 +185,6 @@
     "icon": "https://storage.yandexcloud.net/appleinsider-ipa/icons/com.kozunpartners.nightcode.png",
     "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/com.kozunpartners.nightcode.ipa",
     "bundleID": "com.kozunpartners.nightcode"
-  },
-  {
-    "name": "Новикомбанк",
-    "maskName": "Obraz",
-    "category": "Новикомбанк",
-    "version": "0.57.0",
-    "versionDate": "2026-06-23",
-    "size": "36 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_cbe508b939050.webp",
-    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/tech.metlink.photon.ipa",
-    "bundleID": "tech.metlink.photon"
   },
   {
     "name": "ПСБ",
@@ -298,17 +276,6 @@
   },
   {
     "name": "Сбермобайл",
-    "maskName": "Карта вышек",
-    "category": "Сбермобайл",
-    "version": "2.6",
-    "versionDate": "2026-03-09",
-    "size": "56 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_d3e07245bca33.webp",
-    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/ru.cell.towers.ipa",
-    "bundleID": "ru.cell.towers"
-  },
-  {
-    "name": "Сбермобайл",
     "maskName": "Мобио",
     "category": "Сбермобайл",
     "version": "1.0.2",
@@ -328,17 +295,6 @@
     "icon": "https://storage.yandexcloud.net/appleinsider-ipa/icons/app.speakaboo.com.png",
     "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/app.speakaboo.com.ipa",
     "bundleID": "app.speakaboo.com"
-  },
-  {
-    "name": "СберKids",
-    "maskName": "Smart Quiz",
-    "category": "СберKids",
-    "version": "5.10.1",
-    "versionDate": "2026-03-09",
-    "size": "94 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_3b24ed7e224dd.webp",
-    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/smquiz.smquiz.smquiz.ipa",
-    "bundleID": "smquiz.smquiz.smquiz"
   },
   {
     "name": "Совком Инвестиции",
