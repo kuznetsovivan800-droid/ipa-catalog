@@ -1,47 +1,47 @@
 [
   {
     "name": "Альфа Инвестиции",
-    "maskName": "ToRefresh",
+    "maskName": "Flow invest",
     "category": "Альфа Инвестиции",
-    "version": "1.3",
-    "versionDate": "2026-05-10",
-    "size": "156 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_0d97b8fd37f46.webp",
-    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/md.elvisantol.torefresh.ipa",
-    "bundleID": "md.elvisantol.torefresh"
+    "version": "1.6",
+    "versionDate": "2026-07-31",
+    "size": "164 МБ",
+    "icon": "https://storage.yandexcloud.net/appleinsider-ipa/icons/com.checkinvest.app.png",
+    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/com.checkinvest.app.ipa",
+    "bundleID": "com.checkinvest.app"
   },
   {
     "name": "Альфа-Банк",
-    "maskName": "Холдер",
+    "maskName": "Advance",
     "category": "Альфа-Банк",
-    "version": "16.02.0",
-    "versionDate": "2026-06-19",
-    "size": "134 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_a43fcd93adc8f.webp",
-    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/com.aholder.app.ipa",
-    "bundleID": "com.aholder.app"
+    "version": "1.2",
+    "versionDate": "2026-06-23",
+    "size": "122 МБ",
+    "icon": "https://storage.yandexcloud.net/appleinsider-ipa/icons/com.advancy.app.png",
+    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/com.advancy.app.ipa",
+    "bundleID": "com.advancy.app"
   },
   {
     "name": "БКС Банк",
-    "maskName": "Быстро к Столу",
+    "maskName": "РемПлан",
     "category": "БКС Банк",
     "version": "1.0.0",
-    "versionDate": "2026-06-26",
-    "size": "106 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_19d0339b6bf55.webp",
-    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/bcs.ipa",
-    "bundleID": "bcs"
+    "versionDate": "2026-08-10",
+    "size": "146 МБ",
+    "icon": "https://storage.yandexcloud.net/appleinsider-ipa/icons/com.hmsavolainen.Rhub.png",
+    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/com.hmsavolainen.Rhub.ipa",
+    "bundleID": "com.hmsavolainen.Rhub"
   },
   {
     "name": "ВТБ",
-    "maskName": "Сириус",
+    "maskName": "Алтай",
     "category": "ВТБ",
-    "version": "2.0.1",
-    "versionDate": "2026-06-20",
-    "size": "331 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_9902543d9e4b5.webp",
-    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/com.sm.FlowTime.ipa",
-    "bundleID": "com.sm.FlowTime"
+    "version": "3.2.1",
+    "versionDate": "2026-09-10",
+    "size": "487 МБ",
+    "icon": "https://storage.yandexcloud.net/appleinsider-ipa/icons/com.matila.EventPulse.png",
+    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/com.matila.EventPulse.ipa",
+    "bundleID": "com.matila.EventPulse"
   },
   {
     "name": "ВТБ Инвестиции",
@@ -67,25 +67,25 @@
   },
   {
     "name": "Газпром Инвестиции",
-    "maskName": "BillFO",
+    "maskName": "Billfo",
     "category": "Газпром Инвестиции",
-    "version": "1.0",
-    "versionDate": "2026-03-09",
-    "size": "91 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_a22a04af992a7.webp",
+    "version": "1.159.21",
+    "versionDate": "2026-08-20",
+    "size": "98 МБ",
+    "icon": "https://storage.yandexcloud.net/appleinsider-ipa/icons/ru.billfo.mobile.png",
     "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/ru.billfo.mobile.ipa",
     "bundleID": "ru.billfo.mobile"
   },
   {
     "name": "Газпромбанк",
-    "maskName": "Цифровой сейф",
+    "maskName": "AirsoftNavTeam",
     "category": "Газпромбанк",
-    "version": "1.1.3",
-    "versionDate": "2026-04-13",
-    "size": "254 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_a1ee4c7fb6c10.webp",
-    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/com.app.home.vault.prod.ipa",
-    "bundleID": "com.app.home.vault.prod"
+    "version": "1.153.16",
+    "versionDate": "2026-05-26",
+    "size": "84 МБ",
+    "icon": "https://storage.yandexcloud.net/appleinsider-ipa/icons/org.airsoft.navigation.png",
+    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/org.airsoft.navigation.ipa",
+    "bundleID": "org.airsoft.navigation"
   },
   {
     "name": "Дом.РФ Банк",
@@ -144,14 +144,14 @@
   },
   {
     "name": "Лента",
-    "maskName": "Л.Доставка",
+    "maskName": "Быстро",
     "category": "Лента",
-    "version": "6.86.0",
-    "versionDate": "2026-06-23",
-    "size": "248 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_0944643b88f6e.webp",
-    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/com.alenak.ldostavka.ipa",
-    "bundleID": "com.alenak.ldostavka"
+    "version": "6.88",
+    "versionDate": "2026-09-07",
+    "size": "172 МБ",
+    "icon": "https://storage.yandexcloud.net/appleinsider-ipa/icons/com.alena.bistro.png",
+    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/com.alena.bistro.ipa",
+    "bundleID": "com.alena.bistro"
   },
   {
     "name": "Лента",
@@ -166,14 +166,14 @@
   },
   {
     "name": "МКБ Банк",
-    "maskName": "SLTR",
+    "maskName": "Metric",
     "category": "МКБ Банк",
     "version": "1.0.0",
-    "versionDate": "2026-07-14",
-    "size": "273 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_6a3fa292a911a.webp",
-    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/com.artur.sleeptimer.app.ipa",
-    "bundleID": "com.artur.sleeptimer.app"
+    "versionDate": "2026-09-08",
+    "size": "247 МБ",
+    "icon": "https://storage.yandexcloud.net/appleinsider-ipa/icons/com.imran.compassaltmeter.app.png",
+    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/com.imran.compassaltmeter.app.ipa",
+    "bundleID": "com.imran.compassaltmeter.app"
   },
   {
     "name": "МТС Банк",
@@ -188,12 +188,12 @@
   },
   {
     "name": "Новикомбанк",
-    "maskName": "Ночный код",
+    "maskName": "LunarCode",
     "category": "Новикомбанк",
-    "version": "1.10.2",
-    "versionDate": "2026-07-20",
-    "size": "14 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_87b904cb51c90.webp",
+    "version": "1.10.7",
+    "versionDate": "2026-08-09",
+    "size": "12 МБ",
+    "icon": "https://storage.yandexcloud.net/appleinsider-ipa/icons/com.kozunpartners.nightcode.png",
     "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/com.kozunpartners.nightcode.ipa",
     "bundleID": "com.kozunpartners.nightcode"
   },
@@ -221,36 +221,36 @@
   },
   {
     "name": "ПСБ Бизнес",
-    "maskName": "Бархат",
+    "maskName": "Помощник",
     "category": "ПСБ Бизнес",
-    "version": "2.6",
-    "versionDate": "2026-07-20",
-    "size": "152 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_6a574ac6eab2c.webp",
-    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/ru.fokinakatya.PetCare.ipa",
-    "bundleID": "ru.fokinakatya.PetCare"
+    "version": "1.9",
+    "versionDate": "2026-08-02",
+    "size": "231 МБ",
+    "icon": "https://storage.yandexcloud.net/appleinsider-ipa/icons/ru.surkovios01.ToolRentManager.png",
+    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/ru.surkovios01.ToolRentManager.ipa",
+    "bundleID": "ru.surkovios01.ToolRentManager"
   },
   {
     "name": "РЖД",
-    "maskName": "РЖД Пассажирам",
+    "maskName": "TrainGo",
     "category": "РЖД",
-    "version": "1.55.4",
-    "versionDate": "2026-07-14",
-    "size": "32 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_a176846e10f26.webp",
-    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/ru.dorogi20260609.passenger.ipa",
-    "bundleID": "ru.dorogi20260609.passenger"
+    "version": "1.0",
+    "versionDate": "2026-09-13",
+    "size": "33 МБ",
+    "icon": "https://storage.yandexcloud.net/appleinsider-ipa/icons/com.railtravelmap.app.green.png",
+    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/com.railtravelmap.app.green.ipa",
+    "bundleID": "com.railtravelmap.app.green"
   },
   {
     "name": "Рокетбанк",
-    "maskName": "Лукич",
+    "maskName": "Блум",
     "category": "Рокетбанк",
-    "version": "2.0.2",
-    "versionDate": "2026-06-19",
-    "size": "29 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_b0ed03e053066.webp",
-    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/com.garden.application.ipa",
-    "bundleID": "com.garden.application"
+    "version": "1.2",
+    "versionDate": "2026-09-15",
+    "size": "48 МБ",
+    "icon": "https://storage.yandexcloud.net/appleinsider-ipa/icons/com.mariabash.smartdomophone.png",
+    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/com.mariabash.smartdomophone.ipa",
+    "bundleID": "com.mariabash.smartdomophone"
   },
   {
     "name": "РСХБ",
@@ -309,25 +309,25 @@
   },
   {
     "name": "Сбермобайл",
-    "maskName": "Карта покрытия",
+    "maskName": "Мобио",
     "category": "Сбермобайл",
-    "version": "1.0.1",
-    "versionDate": "2026-06-19",
-    "size": "79 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_6d466828eccc9.webp",
-    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/ru.digitdetox.app.ipa",
-    "bundleID": "ru.digitdetox.app"
+    "version": "1.0.2",
+    "versionDate": "2026-09-15",
+    "size": "37 МБ",
+    "icon": "https://storage.yandexcloud.net/appleinsider-ipa/icons/ru.tele-tie.app.png",
+    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/ru.tele-tie.app.ipa",
+    "bundleID": "ru.tele-tie.app"
   },
   {
     "name": "СберKids",
-    "maskName": "BookTracker: Reading Room",
+    "maskName": "SpeakaBoo",
     "category": "СберKids",
-    "version": "5.12.0",
-    "versionDate": "2026-03-09",
-    "size": "63 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_027ffcd549fb7.webp",
-    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/kz.erzhan.booktracker.com.ipa",
-    "bundleID": "kz.erzhan.booktracker.com"
+    "version": "2.1",
+    "versionDate": "2026-09-03",
+    "size": "119 МБ",
+    "icon": "https://storage.yandexcloud.net/appleinsider-ipa/icons/app.speakaboo.com.png",
+    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/app.speakaboo.com.ipa",
+    "bundleID": "app.speakaboo.com"
   },
   {
     "name": "СберKids",
@@ -353,36 +353,36 @@
   },
   {
     "name": "Совкомбанк",
-    "maskName": "СКБ",
+    "maskName": "SCB Notes",
     "category": "Совкомбанк",
-    "version": "1.1.0",
-    "versionDate": "2026-07-14",
-    "size": "42 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_f3293456a70c1.webp",
-    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/ru.promocodes.ipa",
-    "bundleID": "ru.promocodes"
+    "version": "1.1",
+    "versionDate": "2026-09-15",
+    "size": "67 МБ",
+    "icon": "https://storage.yandexcloud.net/appleinsider-ipa/icons/org.mydiary.png",
+    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/org.mydiary.ipa",
+    "bundleID": "org.mydiary"
   },
   {
     "name": "СОГАЗ",
-    "maskName": "Здоровье и страхование",
+    "maskName": "Здоровье",
     "category": "СОГАЗ",
-    "version": "3.1.3",
-    "versionDate": "2026-05-10",
-    "size": "29 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_30ca9fb8e6a30.webp",
-    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/ru.sogaz.health.ipa",
-    "bundleID": "ru.sogaz.health"
+    "version": "3.12.0",
+    "versionDate": "2026-09-03",
+    "size": "69 МБ",
+    "icon": "https://storage.yandexcloud.net/appleinsider-ipa/icons/kz.origon.empapp.png",
+    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/kz.origon.empapp.ipa",
+    "bundleID": "kz.origon.empapp"
   },
   {
     "name": "Т-Банк",
-    "maskName": "Toastmas",
+    "maskName": "Craftersy",
     "category": "Т-Банк",
-    "version": "7.37.1",
-    "versionDate": "2026-06-24",
-    "size": "212 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_300b8251060dd.webp",
-    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/com.toastmaster.app.ipa",
-    "bundleID": "com.toastmaster.app"
+    "version": "5.1",
+    "versionDate": "2026-09-16",
+    "size": "238 МБ",
+    "icon": "https://storage.yandexcloud.net/appleinsider-ipa/icons/apps.homepreserves.prohome.png",
+    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/apps.homepreserves.prohome.ipa",
+    "bundleID": "apps.homepreserves.prohome"
   },
   {
     "name": "Т-Бизнес",
@@ -419,14 +419,14 @@
   },
   {
     "name": "Хлынов Банк",
-    "maskName": "Цифровая аналитика",
+    "maskName": "FinanceGuruMainTarget",
     "category": "Хлынов Банк",
-    "version": "2.11.2",
-    "versionDate": "2026-06-26",
-    "size": "29 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_72060eb762e96.webp",
-    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/ru.digitalelephants.financecalc.ipa",
-    "bundleID": "ru.digitalelephants.financecalc"
+    "version": "1.0.0",
+    "versionDate": "2026-09-06",
+    "size": "32 МБ",
+    "icon": "https://storage.yandexcloud.net/appleinsider-ipa/icons/ru.financeguru43.png",
+    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/ru.financeguru43.ipa",
+    "bundleID": "ru.financeguru43"
   },
   {
     "name": "GIGA CHAT",
@@ -452,14 +452,14 @@
   },
   {
     "name": "RUTUBE",
-    "maskName": "RUTUBE: Смотри видео здесь",
+    "maskName": "SlicingDices",
     "category": "RUTUBE",
-    "version": "47.15.0",
-    "versionDate": "2026-04-13",
-    "size": "18 МБ",
-    "icon": "https://cdn.appbank.pw/fake/icon_c90f22b2c0f20.webp",
-    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/rutube.ipa",
-    "bundleID": "rutube"
+    "version": "1.3.0",
+    "versionDate": "2026-09-07",
+    "size": "35 МБ",
+    "icon": "https://storage.yandexcloud.net/appleinsider-ipa/icons/com.slicingdice.game.png",
+    "download": "https://storage.yandexcloud.net/appleinsider-ipa/apps/com.slicingdice.game.ipa",
+    "bundleID": "com.slicingdice.game"
   },
   {
     "name": "VK",
