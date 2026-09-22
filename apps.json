@@ -418,7 +418,7 @@
     "bundleID": "com.slicingdice.game"
   },
   {
-    "name": "VK",
+    "name": "ВКонтакте",
     "maskName": "ВКонтакте: музыка, видео, чат",
     "category": "VK",
     "version": "8.183",
@@ -429,7 +429,7 @@
     "bundleID": "com.vk.vkclient"
   },
   {
-    "name": "VK",
+    "name": "Дзен",
     "maskName": "Дзен — новости, статьи, видео",
     "category": "VK",
     "version": "26.7.1",
@@ -440,7 +440,7 @@
     "bundleID": "ru.yandex.mobile.zen"
   },
   {
-    "name": "VK",
+    "name": "Маруся",
     "maskName": "Маруся — голосовой помощник",
     "category": "VK",
     "version": "1.81.0",
@@ -451,7 +451,7 @@
     "bundleID": "ru.mail.electroscope"
   },
   {
-    "name": "VK",
+    "name": "Одноклассники",
     "maskName": "Одноклассники: Социальная сеть",
     "category": "VK",
     "version": "11.63.1",
@@ -462,7 +462,7 @@
     "bundleID": "ru.odnoklassniki.iphone"
   },
   {
-    "name": "VK",
+    "name": "Почта Mail",
     "maskName": "Mail: Почта, Облако, Календарь",
     "category": "VK",
     "version": "15.92.0",
@@ -473,7 +473,7 @@
     "bundleID": "ru.mail.mail"
   },
   {
-    "name": "VK",
+    "name": "VK Видео",
     "maskName": "VK Видео－кино, мультики, клипы",
     "category": "VK",
     "version": "1.153",
@@ -484,7 +484,7 @@
     "bundleID": "com.vk.vkvideo.prod"
   },
   {
-    "name": "VK",
+    "name": "VK Mail",
     "maskName": "VK Mail: secure email client",
     "category": "VK",
     "version": "3.92.0",
@@ -495,7 +495,7 @@
     "bundleID": "com.vk.mail"
   },
   {
-    "name": "VK",
+    "name": "Юла",
     "maskName": "Youla. Buy and sell easily",
     "category": "VK",
     "version": "6.0",
