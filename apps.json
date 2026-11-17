@@ -33,17 +33,6 @@
     "bundleID": "com.hmsavolainen.Rhub"
   },
   {
-    "name": "ВТБ",
-    "maskName": "Алтай",
-    "category": "ВТБ",
-    "version": "3.2.1",
-    "versionDate": "2026-09-10",
-    "size": "487 МБ",
-    "icon": "https://ipa.ivankuzdlss.xyz:8445/icons/com.matila.EventPulse.png",
-    "download": "https://ipa.ivankuzdlss.xyz:8445/apps/com.matila.EventPulse.ipa",
-    "bundleID": "com.matila.EventPulse"
-  },
-  {
     "name": "ВТБ Инвестиции",
     "maskName": "Agnia",
     "category": "ВТБ Инвестиции",
